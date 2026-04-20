@@ -1,2 +1,3 @@
 *.pyc
 educert_backend/errors.log
+educert_backend/educert_backend/settings.py
